@@ -14,3 +14,10 @@ constructs in which p38 exhibits different phosphorylation states and performing
 experiments on those flies. My third aim is to look at p38’s role in protein autophagic
 regulation in familial forms, as p38 has been shown to interact with parkin, a commonly
 mutated gene in PD that is also involved in the autophagosome degradation pathway.
+
+## Goals 
+The goal of this project is to... 
+
+## Hypotheses
+1. Process X depends on environmental changes
+2. 
